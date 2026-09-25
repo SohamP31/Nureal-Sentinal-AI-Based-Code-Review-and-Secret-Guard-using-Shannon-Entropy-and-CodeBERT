@@ -1,0 +1,2 @@
+# Nureal-Sentinal-AI-Based-Code-Review-and-Secret-Guard-using-Shannon-Entropy-and-CodeBERT
+Developed a local-first AI-based code security system that detects hardcoded secrets and potential code vulnerabilities using Shannon Entropy, CodeBERT, and Augmented Program Dependency Graph (AUG-PDG) analysis. The system uses Git pre-commit hooks and IDE integration to detect and prevent security issues before code reaches remote repositories.
